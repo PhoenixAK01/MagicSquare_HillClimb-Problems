@@ -1,9 +1,4 @@
-# MagicSquare_HillClimb-Problems
-
-Magic Square Generator
-This program generates a magic square of order n (where n ≥ 3 and n ≠ 2).
-A magic square is an n × n matrix filled with distinct positive integers from 1 to n² such that the sum of each row, column, and both main diagonals is the same. This sum is known as the magic constant.
-Time Complexity:O(n²),Space Complexity: O(n²)
+HillClimb-Problems
 
 Hill Climbing Algorithm for 8-Puzzle
 Features
